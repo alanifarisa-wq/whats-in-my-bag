@@ -1,0 +1,6 @@
+{
+  "name": "WHAT'S IN MY BAG? (가방 안에 뭐가 있어요?)",
+  "description": "An interactive Korean vocabulary recall game featuring an illustrated plaid ballet shoulder bag and everyday items.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
